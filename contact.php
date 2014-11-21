@@ -29,7 +29,7 @@ if(trim($name) == '') {
 	exit();
 }
 
-$address = "vladthemes@yahoo.com";
+$address = "cliffordcan@gmail.com";
 
 
 $received_subject = 'You\'ve been contacted by ' . $name . '.';
