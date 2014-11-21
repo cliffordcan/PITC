@@ -179,7 +179,7 @@ section .container{
 
 .btn-default{
     display: inline-block;
-    color: white;
+    color: #cc3910;
 
 }
 
@@ -271,7 +271,7 @@ section .container{
 }
 
 .affix{
-    background-color: #282828;
+    background-color: #8fa68e;
     padding-top:10px;
     padding-bottom:10px;
 }
@@ -450,7 +450,7 @@ p.bold{
 }
 
 #text-separator, #text-separator-clients, #text-separator-testimonials, #text-separator-timers{
-    background-color: #1d1d1d;
+    background-color: #8fa68e;
     padding-top:50px;
     padding-bottom:50px;
     padding-left:15px;
@@ -630,7 +630,7 @@ p.bold{
 
 .portfolioFilters {
     height:150px;
-    background-color: #1d1d1d;
+    background-color: #8fa68e;
 }
 
 .grayBackground {
@@ -674,7 +674,7 @@ p.bold{
 .portfolioIntro{
     position:relative;
     z-index:2;
-    background:url('img/portfolioIntro.jpg') no-repeat center center;
+    background:url('img/brickwall.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
