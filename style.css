@@ -263,10 +263,10 @@ section .container{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    color:white;
+    color:#cc3910;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-    color: white;
+    color: #cc3910;
     background-color: transparent;
 }
 
@@ -289,7 +289,7 @@ section .container{
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
-    color: white;
+    color: #cc3910;
     background-color: transparent;
 }
 
@@ -338,7 +338,7 @@ section .container{
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #d5d5d5;
+    color: #cc3910;
 }
 
 .dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus {
@@ -555,7 +555,7 @@ p.bold{
 /*<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->*/
 
 #about{
-    background-color: white;
+    background-color: #f1f2c0;
 }
 #about .container{
     padding-top:200px;
@@ -674,7 +674,7 @@ p.bold{
 .portfolioIntro{
     position:relative;
     z-index:2;
-    background:url('img/brickwall.jpg') no-repeat center center;
+    background:url('img/Brick_texture_red_brick.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
