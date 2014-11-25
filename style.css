@@ -79,7 +79,7 @@ section .container{
 .preloaderLogo{
     min-width: 200px;
     max-width: 300px;
-    width: 40%;
+    width: 15%;
 }
 
 
@@ -271,7 +271,7 @@ section .container{
 }
 
 .affix{
-    background-color: #282828;
+    background-color: #8fa68e;
     padding-top:10px;
     padding-bottom:10px;
 }
@@ -408,7 +408,7 @@ p {
     font-weight: 300;
     font-size: 14px;
     line-height: 24px;
-    color: #282828;
+    color: #4c4c4c;
 }
 
 p.bold{
@@ -428,9 +428,8 @@ p.bold{
 
 .introLogo{
     position:relative;
-    width:50%;
-    margin-bottom:5px;
-    margin-top: 10px;
+    width:160px;
+    margin-bottom:20px;
 }
 
 #intro .separator{
@@ -451,7 +450,7 @@ p.bold{
 }
 
 #text-separator, #text-separator-clients, #text-separator-testimonials, #text-separator-timers{
-    background-color: #282828;
+    background-color: #8fa68e;
     padding-top:50px;
     padding-bottom:50px;
     padding-left:15px;
@@ -477,7 +476,7 @@ p.bold{
 
 .textSepLogo{
     position:absolute;
-    top:0;
+    right:0;top:0;
     z-index: 1;
 }
 
@@ -556,7 +555,7 @@ p.bold{
 /*<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->*/
 
 #about{
-    background-color: #ffffff;
+    background-color: #f1f2c0;
 }
 #about .container{
     padding-top:200px;
@@ -631,7 +630,7 @@ p.bold{
 
 .portfolioFilters {
     height:150px;
-    background-color: #282828;
+    background-color: #8fa68e;
 }
 
 .grayBackground {
@@ -1355,7 +1354,7 @@ label input, textarea{
 #footer .bottomLine {
     padding: 50px;
     margin: 0 auto;
-    background-color: #282828;
+    background-color: #222222;
 }
 
 #footer .bottomLine p{
@@ -1925,11 +1924,4 @@ line-height: 24px;
     padding-left: 3px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
-}
-img.textSepLogo {
-    -ms-transform: rotate(33deg); /* IE 9 */
-    -webkit-transform: rotate(33deg); /* Chrome, Safari, Opera */
-    transform: rotate(33deg);
-    margin-left: 350px;
-    width: 60%;
 }
