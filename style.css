@@ -179,7 +179,7 @@ section .container{
 
 .btn-default{
     display: inline-block;
-    color: #cc3910;
+    color: #fff;
 
 }
 
@@ -263,10 +263,10 @@ section .container{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    color:#cc3910;
+    color:#fff;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-    color: #cc3910;
+    color: #fff;
     background-color: transparent;
 }
 
@@ -289,7 +289,7 @@ section .container{
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
-    color: #cc3910;
+    color: #ffffff;
     background-color: transparent;
 }
 
@@ -338,7 +338,7 @@ section .container{
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-    color: #cc3910;
+    color: #ffffff;
 }
 
 .dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus {
