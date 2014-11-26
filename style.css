@@ -428,7 +428,7 @@ p.bold{
 
 .introLogo{
     position:relative;
-    width:50%;
+    width:30%;
     margin-bottom:5px;
     margin-top: 10px;
 }
@@ -1066,7 +1066,8 @@ p.bold{
 
 .serviceBox h2 span{
     padding:25px 50px;
-    border: solid 10px #282828;
+    border: solid 10px #fff;
+    color: #fff;
 }
 
 .serviceBox i{
@@ -1075,8 +1076,8 @@ p.bold{
 
 .introServiceBox{
     position:relative;
-    z-index:2;
-    background:url('img/backgroundService.jpg') no-repeat center center;
+    z-index:1;
+    background:url('img/logs.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
